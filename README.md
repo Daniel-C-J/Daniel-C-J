@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Daniel-C-J
+- 👀 I’m interested in ... Petting dogs and playing with malwares... Odd combination right?
+- 🌱 I’m currently learning ... Malware Development.
